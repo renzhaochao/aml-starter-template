@@ -1,0 +1,3 @@
+{"id": "q-1", "conversation_id": "conv-1", "question": "When did the user move to Porto?", "question_type": "temporal_reasoning", "rubric_nuggets": ["The answer states the user moved to Porto in March 2024"]}
+{"id": "q-2", "conversation_id": "conv-1", "question": "What does the user love doing?", "question_type": "information_extraction", "rubric_nuggets": ["The answer mentions hiking", "The answer mentions coastal trails"]}
+{"id": "q-3", "conversation_id": "conv-2", "question": "What is the user's passport number?", "question_type": "information_extraction", "rubric_nuggets": ["The answer includes XK123456"]}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "conv-1",
+    "messages": [
+      {"role": "user", "content": "I moved to Porto in March 2024.", "timestamp": 1710000000000},
+      {"role": "assistant", "content": "Porto is a lovely city!", "timestamp": 1710000030000},
+      {"role": "user", "content": "I love hiking on the coastal trails.", "timestamp": 1710000060000},
+      {"role": "assistant", "content": "The coastal trails are beautiful indeed.", "timestamp": 1710000090000},
+      {"role": "user", "content": "My visa appointment is on November 3rd.", "timestamp": 1710000120000}
+    ]
+  },
+  {
+    "id": "conv-2",
+    "messages": [
+      {"role": "user", "content": "My passport number is XK123456.", "timestamp": 1710000000000},
+      {"role": "assistant", "content": "Please keep that information safe.", "timestamp": 1710000030000}
+    ]
+  }
+]
